@@ -1,4 +1,4 @@
-name: CareUEveryDay Cron CI
+name: CareUEveryDay Cron CI 2
 
 on:
   schedule:
